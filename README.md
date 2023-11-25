@@ -53,7 +53,6 @@ This project is a simple chat room done as a project for a computer networing cl
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
